@@ -1,0 +1,82 @@
+[
+    {
+        "instruction": "Generate an infographic that depicts the growth of renewable energy sources over the past decade and write a summary text about the key findings.",
+        "output": "1. Generate a data-driven image showcasing the growth of renewable energy sources over the past decade. 2. Analyze the generated image and write a summary text highlighting the key findings."
+    },
+    {
+        "instruction": "Produce a short documentary video on the impact of climate change on marine life, including narration script.",
+        "output": "1. Generate a script for the documentary video focusing on the impact of climate change on marine life. 2. Create a video based on the script that includes relevant images, videos, and narration."
+    },
+    {
+        "instruction": "Create a podcast episode script on the history of the internet and generate a background tune that fits the theme.",
+        "output": "1. Write a script for a podcast episode about the history of the internet. 2. Compose audio for a background tune that matches the theme of the podcast."
+    },
+    {
+        "instruction": "Design a logo for a new tech startup and create a tagline that encapsulates its mission.",
+        "output": "1. Generate an image representing a logo for the new tech startup. 2. Write a text for a tagline that encapsulates the startup's mission."
+    },
+    {
+        "instruction": "Write a descriptive analysis of a famous painting and generate a soothing audio guide for museum visitors.",
+        "output": "1. Write a detailed text analysis of a famous painting. 2. Generate an audio guide that provides a soothing narrative of the painting's analysis for museum visitors."
+    },
+    {
+        "instruction": "Generate a series of educational infographics on the solar system and write descriptions for each planet.",
+        "output": "1. Create data-driven images for each planet in the solar system for educational purposes. 2. Write descriptive texts about each planet to accompany the infographics."
+    },
+    {
+        "instruction": "Create a fictional short story and generate illustrations that bring the story to life.",
+        "output": "1. Write a text of a fictional short story. 2. Generate images as illustrations that depict key moments or scenes from the story."
+    },
+    {
+        "instruction": "Develop a marketing strategy for a product launch, including a promotional video and press release text.",
+        "output": "1. Write a text outlining a marketing strategy for the product launch. 2. Generate a promotional video that aligns with the strategy. 3. Write a press release text announcing the product launch."
+    },
+    {
+        "instruction": "Analyze customer reviews of a product and generate a summary report, including graphics on sentiment analysis.",
+        "output": "1. Write a text summarizing and analyzing customer reviews of a product. 2. Generate an image that includes graphics on sentiment analysis based on the reviews."
+    },
+    {
+        "instruction": "Translate a short story from English to French and generate an audio narration in both languages.",
+        "output": "1. Translate the text of a short story from English to French. 2. Generate an audio narration of the story in both English and French languages."
+    },
+    {
+        "instruction": "Generate a virtual reality (VR) experience script for a historical event and design audio-visual content to accompany it.",
+        "output": "1. Write a script text for a VR experience focusing on a historical event. 2. Generate audio-visual content that matches and brings the script to life in a VR setting."
+    },
+    {
+        "instruction": "Create a tutorial on how to make homemade pasta, including step-by-step video, written instructions, and a list of ingredients as an image.",
+        "output": "1. Write a text with detailed instructions on making homemade pasta. 2. Generate a video demonstrating the steps mentioned in the text. 3. Generate an image listing all necessary ingredients."
+    },
+    {
+        "instruction": "Analyze the trend of electric vehicle (EV) sales and produce an explainer video with graphs and voice-over.",
+        "output": "1. Write a text analysis on the trend of EV sales over recent years. 2. Create a video that includes graphical representations of the sales trends with a voice-over explaining the results."
+    },
+    {
+        "instruction": "Write a review of a new music album and create a sample remix of one of its tracks.",
+        "output": "1. Write a detailed text review of a new music album. 2. Generate an audio sample remix of one track from the album."
+    },
+    {
+        "instruction": "Generate a motivational speech for athletes and accompany it with a high-energy video montage of sports highlights.",
+        "output": "1. Write a motivational speech text for athletes. 2. Generate a video montage of sports highlights that pairs with the motivational speech."
+    },
+    {
+        "instruction": "Create an online course module on Python programming, including video lessons and quizzes in an interactive PDF format.",
+        "output": "1. Generate video lessons covering different aspects of Python programming. 2. Write text for quizzes related to the lesson content and incorporate them into an interactive PDF."
+    },
+    {
+        "instruction": "Design a 3D model of a futuristic city and create a walkthrough video tour of the city with descriptive narration.",
+        "output": "1. Generate images of a 3D model for a futuristic city. 2. Create a video walkthrough tour of the city model with descriptive audio narration."
+    },
+    {
+        "instruction": "Develop a branding package for a new coffee shop, including the design of its logo, a catchy jingle, and an introductory social media post.",
+        "output": "1. Generate an image of a logo design for the new coffee shop. 2. Generate audio for a catchy jingle that reflects the coffee shop's brand. 3. Write a text for an introductory social media post announcing the opening."
+    },
+    {
+        "instruction": "Write an analysis of a recent tech conference, including the key points discussed, and generate a highlight reel of the event.",
+        "output": "1. Write a text analysis covering the key points and highlights from a recent tech conference. 2. Generate a video highlight reel of the event."
+    },
+    {
+        "instruction": "Compose a children's story about space exploration and create animated characters speaking the dialogue.",
+        "output": "1. Write a text for a children's story focusing on space exploration. 2. Generate audio of animated characters speaking the dialogue from the story. 3. Generate images of the animated characters that can be used alongside the audio."
+    }
+]

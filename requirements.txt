@@ -1,0 +1,10 @@
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/accelerate.git
+torch
+openai==1.12.0
+python-dotenv==1.0.1
+bitsandbytes
+git+https://github.com/huggingface/peft.git
+pyarrow==13.0.0
+datasets
+wandb

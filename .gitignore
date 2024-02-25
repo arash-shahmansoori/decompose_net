@@ -1,0 +1,14 @@
+# Ignore the the following directories
+.DS_Store
+__pycache__/
+.venv/
+
+miscellaneous/*
+
+# Ignore the environment variables
+.env
+
+# Ignore any additional files
+blog.md
+media.md
+git_commands.md
